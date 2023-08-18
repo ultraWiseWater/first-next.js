@@ -1,0 +1,51 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "html",
+      "body": "html is ..."
+    },
+    {
+      "id": 2,
+      "title": "css",
+      "body": "css is ..."
+    },
+    {
+      "title": "js",
+      "body": "js is...",
+      "id": 4
+    },
+    {
+      "title": "react",
+      "body": "react is...",
+      "id": 5
+    },
+    {
+      "title": "Next",
+      "body": "Next is...",
+      "id": 6
+    },
+    {
+      "title": "nest",
+      "body": "nest is...",
+      "id": 7
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
